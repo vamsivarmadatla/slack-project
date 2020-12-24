@@ -1,0 +1,173 @@
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+#iamge-banner-main{
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    width: auto;
+    overflow: hidden;
+}
+
+#iamge-banner-main h1{
+    font-weight: 700;
+    width: 80%;
+}
+
+#iamge-banner-main p{
+    font-size: 18px;
+    width: 70%;
+    font-weight: 500;
+   
+}
+#iamge-banner1{
+    height: 60vh;
+}
+#iamge-banner1 .btn{
+    background-color: #623369;
+    border: 2px solid #623369; 
+    font-size: 14px;
+    border-radius: 5px;   
+    font-weight: 600;
+    padding: 15px 25px;
+   
+}
+#iamge-banner1 .btn:hover{
+    background-color: #623369;      
+}
+#iamge-banner2 .btn{
+    background-color: #F6EFE8;
+    border: 2px solid #623369;    
+    font-size: 16px;
+    border-radius: 5px;   
+    font-weight: 600;
+    padding: 15px 25px;
+    text-transform: capitalize; 
+}
+
+.story h2{
+    text-align: center;
+    font-weight: 600;
+    margin-left: 16rem;
+    margin-right: 16rem;
+    font-size: 2.5rem;
+    
+}
+.story-image img{ 
+ margin: 10px 50px 10px 65px;
+}
+
+.about-slack p{
+    font-style: italic;
+    font-weight: 300;
+    font-size: 26px;
+    margin-top: 24px;
+    
+}
+
+.contact-sales{   
+    width: 100%;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    
+
+}
+
+.contact-sales h2{
+   text-align: center;
+   font-weight: 600;
+   font-size: 2.5rem;
+   margin-bottom: 2rem;
+    
+}
+    
+.contact-sales #btn-free{
+    color: #623369;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 30px;
+    letter-spacing: .8px;
+    margin-right: 2rem;
+    border: 2px solid #FFFFFF;
+}
+
+.contact-sales #btn-sale{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 30px;
+    letter-spacing: .8px;
+    margin-right: 2rem;
+    border: 2px solid #FFFFFF;
+
+}
+
+.card{
+    width: 10rem;
+    height: 12rem;
+    margin-bottom: 5px;    
+}
+.card img{
+    height: 9rem;
+    width: 10rem;
+    transition: transform .2s;
+    
+}
+
+.card img:hover{
+    transform: scale(1.1);
+}
+
+#services h2{
+    text-align: center;
+    background-color: rgb(182, 189, 197);
+    padding: 5px 0 5px 0;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-bottom: 1rem;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+#services p a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #3a3535;
+    
+}
+
+#services p a:hover{    
+    color: #0D78F9;   
+    
+}
+
+#services h5{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+.footer a{
+    color: #3a3535;    
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footer-copyright{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+    padding-bottom: 2px;
+}
+
+.footer-copyright span{
+    font-weight: 600;
+}
